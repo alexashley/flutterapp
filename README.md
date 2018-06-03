@@ -22,6 +22,7 @@
 - `flutter doctor` was neat.
 - Can easily see the wireframe with `Flutter Inspector > Toggle Debug Paint`
 - Ran into this [issue](https://github.com/flutter/flutter/issues/15055), presumably due to the Flutter plugin since vanilla Android Studio didn't have the same issue.
+- hot reloading was pretty fast.
 - Compilation errors destroy state:
 ![./res/flutter_error.png]
 - No nullability checking?
@@ -33,4 +34,4 @@ I/flutter ( 6804): The getter 'asPascalCase' was called on null.
 I/flutter ( 6804): Receiver: null
 I/flutter ( 6804): Tried calling: asPascalCase
 ```
-- not a fan of the deep Widget nesting that comes naturally when writing a `build` method
+- not a fan of the deep `Widget` nesting that comes naturally when writing a `build` method
