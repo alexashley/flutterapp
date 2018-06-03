@@ -24,7 +24,7 @@
 - Ran into this [issue](https://github.com/flutter/flutter/issues/15055), presumably due to the Flutter plugin since vanilla Android Studio didn't have the same issue.
 - hot reloading was pretty fast.
 - Compilation errors destroy state:
-![./res/flutter_error.png]
+![flutter error](./res/flutter_error.png)
 - No nullability checking?
 - `NPE` caught by renderer, but the app partially rendered:
 ```
