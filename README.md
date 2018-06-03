@@ -7,6 +7,7 @@
 
 ## resources
 - [FAQ](https://flutter.io/faq/)
+- [Flutter for React Native Devs](https://flutter.io/flutter-for-react-native/)
 - [Creating Flutter Plugins](https://flutter.io/developing-packages/#plugin)
 - [What's Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514#---0-25)
 - [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
