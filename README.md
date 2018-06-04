@@ -14,6 +14,8 @@
 - [Flutter's Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU&feature=youtu.be)
 - [Build Reactive Native Apps with Flutter](https://www.youtube.com/watch?v=RS36gBEp8OI)
 - [Why Doesn't Flutter Use OEM Widgets](https://medium.com/flutter-io/why-flutter-doesnt-use-oem-widgets-94746e812510)
+- [state_experiments](https://github.com/filiph/state_experiments)
+- [Architecture for Flutter Apps](Architecture for Flutter Apps)
 - Dart:
     - https://news.dartlang.org/2012/06/const-static-final-oh-my.html
     - https://www.dartlang.org/
